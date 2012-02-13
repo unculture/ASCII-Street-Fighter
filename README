@@ -1,9 +1,21 @@
 As I didn't get to touch the keyboard at all at the dojo, I thought 
 I'd spend a happy couple of hours with a glass of wine recreating our 
-team's game. 
+team's game from scrath. 
 
-Don't look too closely at the code, as it may burn your eyes... 
-
-Not in a good way
+Don't look too closely at the code... 
 
 FIGHT!
+
+It's 2-player:
+
+python fighter.py
+
+'e' - Move player 1 up
+'d' - Send fireball hurtling dangerously towards player 2
+'c' - Move player 1 down
+
+'o' - Move player 1 up
+'k' - Send fireball hurtling dangerously towards player 1
+'m' - Move player 1 down
+
+'q' quits the game
