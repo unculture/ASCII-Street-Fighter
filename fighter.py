@@ -1,3 +1,5 @@
+# More fun with a glass of wine...
+
 import curses
 from time import sleep
 
